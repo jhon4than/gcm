@@ -5,6 +5,7 @@
 
 <BODY> 
 	Curriculo
+	<b>
 	Jhonathan Meireles de Oliveira
 </BODY> 
 </HTML>
